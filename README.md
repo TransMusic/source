@@ -1,2 +1,2 @@
-# source
-The official source code for the TransMusic website available at https://transmusic.media/ or https://beta.katxcrys.me/preview-ver/
+# TransMusic Source
+TransMusic is not yet available, a preview version will be released soon.
